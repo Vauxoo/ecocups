@@ -2,3 +2,6 @@
 	path = ecocups
 	url = git@git.vauxoo.com:vauxoo/ecocups.git
 	branch = 17.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
