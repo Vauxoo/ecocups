@@ -1,1 +1,1 @@
-# Eco Cups International S.A.
+# Eco. Cups International S.A.
